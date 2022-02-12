@@ -1,0 +1,30 @@
+{
+  "name": "NEON-Web",
+  "version": "0.0.1-prealpha",
+  "description": "NEON VCS Web Client",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.5.9",
+    "express": "^4.16.3",
+    "got": "^11.8.2",
+    "http-terminator": "^3.0.3",
+    "request": "^2.85.0",
+    "tape": "^4.9.0"
+  },
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N11Software/neon-web"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Ariston Lorenzo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/N11Software/neon-web/issues"
+  },
+  "homepage": "https://github.com/N11Software/neon-web#readme"
+}
